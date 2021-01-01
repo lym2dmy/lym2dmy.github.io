@@ -3,8 +3,8 @@ layout: post
 title:  "Wind turbine blade surface inspection based on deep learning and UAV-taken images"
 date:   2021-1-1 22:52:11
 categories: CE
-tags: papers wind-turbine deep-learning UAV
-excerpt: Wind turbine blade surface inspection based on deep learning and UAV-taken images.
+tags: wind-turbine deep-learning UAV
+excerpt: Generally, this paper contains a whole flow of the CNN algorithm, which is worthy to study the details.
 mathjax: true
 ---
 
