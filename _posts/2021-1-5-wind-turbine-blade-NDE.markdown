@@ -14,7 +14,7 @@ mathjax: true
 
 [https://doi.org/10.1016/j.renene.2020.07.145](https://doi.org/10.1016/j.renene.2020.07.145)
 
-Submitted: 04 June 2019 . Accepted: 24 September 2019 . Published Online: 10 October 2019
+Received 23 March 2020, Received in revised form 28 July 2020, Accepted 30 July 2020, Available online 4 August 2020
 
 # Abstract
 > Wind energy, with an exponential growth in the last years, is nowadays one of the most important renewable energy sources. Modern wind turbines are bigger and complex to produce more energy. This industry requires to reduce its operating and maintenance costs and to increase its reliability, safety, maintainability and availability. Condition monitoring systems are beginning to be employed for this purpose. They must be reliable and cost-effective to reduce the long periods of downtimes and high maintenance costs, and to avoid catastrophic scenarios caused by undetected failures. This paper presents a survey about the most important and updated condition monitoring techniques based on non-destructive testing and methods applied to wind turbine blades. In addition, it analyses the future trends and challenges of structural health monitoring systems in wind turbine blades.
